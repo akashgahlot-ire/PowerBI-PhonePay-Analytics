@@ -177,7 +177,10 @@ These filters allow users to perform focused analysis and explore different tran
 
 ## Complete Dashboard
 
-![PhonePe Transaction Analytics Dashboard](Dashboard%20Images/Dashboard%20Overview.png)
+<p align="center">
+<img src="Dashboard Images/Starucks_Dashboard.png" width="100%">
+</p>
+
 
 ---
 
