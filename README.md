@@ -178,7 +178,7 @@ These filters allow users to perform focused analysis and explore different tran
 ## Complete Dashboard
 
 <p align="center">
-<img src="Dashboard Images/Starucks_Dashboard.png" width="100%">
+<img src="Dashboard Images/PhonePay_Dashboard.png" width="100%">
 </p>
 
 
